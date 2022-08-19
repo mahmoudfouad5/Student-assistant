@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995830119325",
+    "project_id": "test-hti",
+    "storage_bucket": "test-hti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995830119325:android:e8a736d3b1c5e6c4298d74",
+        "android_client_info": {
+          "package_name": "com.example.hti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995830119325-6paq01b3dhumsfbjs8lkq4jcopovmm6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ17z8thHAxhGxRce46tAggvV4RQCul4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995830119325-6paq01b3dhumsfbjs8lkq4jcopovmm6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
